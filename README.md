@@ -20,7 +20,7 @@ Ushbu Python skripti sizga berilgan havola orqali YouTube videolarni yoki audiol
 
 ```bash
 git clone https://github.com/Yagafarov/youtubeDownloader.git
-
+```
 ## O'rnatish
 
 1. Proyekt direktoriyasiga o'ting:
